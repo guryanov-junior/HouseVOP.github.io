@@ -1,1 +1,1 @@
-# guryanov-junior.github.io
+This is an example of this site layout in my vision.
